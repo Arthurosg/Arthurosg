@@ -13,12 +13,12 @@
 
 
 **Sobre mim**:
-- 💻 Nome: Vinícius H. Giovanini
-- 🗓 IDADE: 20 Anos
+- 💻 Nome: Arthur O. S. Gomes
+- 🗓 IDADE: 18 Anos
 - 🇧🇷 Cidade: BH|MG
 - 📖 CURSO: Ciência da Computação
 - 📌 FACULDADE: Pontíficia Universidade Católica
-- 🎮 HOBBY: Video Game, Músicas, Futebol
+- 🎮 HOBBY: Video Game, Músicas, Carros
 
 
 **Linguagens Aprendidas**
@@ -42,7 +42,6 @@
 **Ferramentas Aprendidas/Utilizadas**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=Visual%20Studio%20Code&logoColor=white&style=flat)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-black?logo=Vim&logoColor=white&style=flat)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-blueviolet?logo=Eclipse%20IDE&logoColor=white&style=flat)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?logo=Sublime%20Text&logoColor=orange&style=flat)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-informational?logo=Windows&logoColor=white&style=flat)&nbsp;
@@ -50,7 +49,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubunto-orange?logo=Ubuntu&logoColor=white&style=flat)&nbsp;
 ![Terminal Linux/Windows](https://img.shields.io/badge/-Terminal-black?logo=Windows%20Terminal&logoColor=white&style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-red?logo=npm&logoColor=white&style=flat)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-blue?logo=Discord&logoColor=white&style=flat)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white&style=flat)&nbsp;
 
