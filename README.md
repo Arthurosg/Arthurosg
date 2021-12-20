@@ -7,9 +7,9 @@
 <!--
 **viniciushgiovanini/viniciushgiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/vinygiovanini/)&nbsp; 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/vinyhg)&nbsp;
-![Email](https://img.shields.io/badge/EMAIL-vgiovanini%40sga.pucminas.br-lightgrey?logo=Minutemailer&logoColor=white&style=flat)  
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/arthur_osg23/)&nbsp; 
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/arthur_osg22)&nbsp;
+![Email](https://img.shields.io/badge/EMAIL-arthurgomesosg@gmail.com-lightgrey?logo=Minutemailer&logoColor=white&style=flat)  
 
 
 **Sobre mim**:
@@ -25,24 +25,24 @@
 
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=flat)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-orange?logo=Java&logoColor=white&style=flat)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-9cf?logo=cplusplus&?logoColor=white&style=flat)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-blueviolet?logo=c-sharp&?logoColor=white&style=flat)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=flat)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)  
 
 **Linguagem/Ferramentas em Desenvolvimento**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-blueviolet?logo=c-sharp&?logoColor=white&style=flat)&nbsp;
 ![Pyton](https://img.shields.io/badge/-Python-green?logo=Python&logoColor=white&style=flat)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-9cf?logo=Node.js&logoColor=white&style=flat)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-inactive?logo=MySQL&logoColor=white&style=flat)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?logo=PostgreSQL&logoColor=white&style=flat)&nbsp;
-![React.js](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=flat)   
+  
 
 **Ferramentas Aprendidas/Utilizadas**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=Visual%20Studio%20Code&logoColor=white&style=flat)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-blueviolet?logo=Eclipse%20IDE&logoColor=white&style=flat)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-inactive?logo=MySQL&logoColor=white&style=flat)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?logo=PostgreSQL&logoColor=white&style=flat)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-9cf?logo=Node.js&logoColor=white&style=flat)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?logo=Sublime%20Text&logoColor=orange&style=flat)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-informational?logo=Windows&logoColor=white&style=flat)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-lightgrey?logo=Linux&logoColor=white&style=flat)  
