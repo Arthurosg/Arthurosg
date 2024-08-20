@@ -14,7 +14,7 @@
 
 **Sobre mim**:
 - 💻 Nome: Arthur O. S. Gomes
-- 🗓 IDADE: 18 Anos
+- 🗓 IDADE: 20 Anos
 - 🇧🇷 Cidade: BH|MG
 - 📖 CURSO: Ciência da Computação
 - 📌 FACULDADE: Pontíficia Universidade Católica
