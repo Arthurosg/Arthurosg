@@ -13,6 +13,7 @@
 
 
 **Sobre mim**:
+DESENVOLVIMENTOS WEB
 - 💻 Nome: Arthur O. S. Gomes
 - 🗓 IDADE: 20 Anos
 - 🇧🇷 Cidade: BH|MG
