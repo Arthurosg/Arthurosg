@@ -31,6 +31,7 @@ DESENVOLVIMENTOS WEB
 ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=flat)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)&nbsp;  
 ![flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&color=blue)&nbsp;
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)&nbsp;
 
 **Linguagem/Ferramentas em Desenvolvimento**
 
