@@ -37,6 +37,9 @@ DESENVOLVIMENTOS WEB
 
 ![C#](https://img.shields.io/badge/-C%23-blueviolet?logo=c-sharp&?logoColor=white&style=flat)&nbsp;
 ![Pyton](https://img.shields.io/badge/-Python-green?logo=Python&logoColor=white&style=flat)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=Dart)&nbsp;
+![mariadb](https://img.shields.io/badge/-mariadb-black?style=flat&logo=Mariadb)&nbsp;
+
   
 
 **Ferramentas Aprendidas/Utilizadas**
