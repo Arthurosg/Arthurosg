@@ -29,7 +29,8 @@ DESENVOLVIMENTOS WEB
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-9cf?logo=cplusplus&?logoColor=white&style=flat)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=flat)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)  
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)&nbsp;  
+![flutter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg)&nbsp;
 
 **Linguagem/Ferramentas em Desenvolvimento**
 
